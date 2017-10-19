@@ -28,4 +28,4 @@ Sample QR Code
 
 ### Support or Contact
 
-support email: [luyunma@gmail.com](mailto:luyunma988@gmail.com)
+support email: [liruyun988@gmail.com](mailto:luyunma988@gmail.com)
