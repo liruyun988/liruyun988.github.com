@@ -11,6 +11,11 @@ Sample QR Code
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/440px-QR_code_for_mobile_English_Wikipedia.svg.png)
 
 
+## screen
+
+
+![Image](https://liruyun988.github.com/sample.png)
+
 
 ### Feature
 
