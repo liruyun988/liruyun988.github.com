@@ -1,37 +1,23 @@
 ## Welcome to SSC-QrCodePlatform Pages
 
-You can use the [editor on GitHub](https://github.com/liruyun988/liruyun988.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. A QR code uses four standardized encoding modes (numeric, alphanumeric, byte/binary, and kanji) to efficiently store data; extensions may also be used.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The QR code system became popular outside the automotive industry due to its fast readability and greater storage capacity compared to standard UPC barcodes. Applications include product tracking, item identification, time tracking, document management, and general marketing.
 
-### Markdown
+A QR code consists of black squares arranged in a square grid on a white background, which can be read by an imaging device such as a camera, and processed using Reed–Solomon error correction until the image can be appropriately interpreted. The required data is then extracted from patterns that are present in both horizontal and vertical components of the image.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sample QR Code
+[image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/QR_code_for_mobile_English_Wikipedia.svg/440px-QR_code_for_mobile_English_Wikipedia.svg.png)
 
-```markdown
-Syntax highlighted code block
+### Feature
 
-# Header 1
-## Header 2
-### Header 3
+## Generate QR Code
 
-- Bulleted
-- List
+## Scan QR Code
 
-1. Numbered
-2. List
+## Save QR Code
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liruyun988/liruyun988.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+support email: [luyunma@gmail.com](mailto:luyunma988@gmail.com)
