@@ -14,7 +14,7 @@ Sample QR Code
 ## screen
 
 
-![Image](https://liruyun988.github.com/sample.png)
+![Image](./sample.png)
 
 
 ### Feature
