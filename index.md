@@ -17,13 +17,13 @@ Sample QR Code
 ![Image](./sample.png)
 
 
-### Feature
+*Feature*
 
-## Generate QR Code
+**1.Generate QR Code**
 
-## Scan QR Code
+**2.Scan QR Code**
 
-## Save QR Code
+**3.Save QR Code**
 
 
 ### Support or Contact
